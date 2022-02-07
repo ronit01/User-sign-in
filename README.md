@@ -1,1 +1,1 @@
-# User-sign-in
+# User-sign-in authenticates a user account.
